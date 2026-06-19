@@ -2,7 +2,7 @@
 # 第二课堂管理系统 v1.0.0 — Windows 绿色免安装版
 
 <p align="center">
-  <strong>机电工程学院 · 学生综合素质学分统计系统</strong><br>
+  <strong>EmergencyKit · 学生综合素质学分统计系统</strong><br>
   本地数据处理 · 离线可用 · 零网络依赖
 </p>
 
